@@ -1,0 +1,25 @@
+[12:35:27] Info: =============== Start of logging session ===============
+[12:35:27] Exception: Index is invalid or out of range.
+	Line: 9
+	Info: bruh 9
+
+[12:38:00] Info: =============== Start of logging session ===============
+[12:38:00] Exception: Index is invalid or out of range.
+	Line: 9
+	Info: bruh 9
+
+[12:38:09] Info: =============== Start of logging session ===============
+[12:38:09] Exception: Index is invalid or out of range.
+	Line: 9
+	Info: bruh 9
+
+[12:39:42] Info: =============== Start of logging session ===============
+[12:39:43] Exception: Index is invalid or out of range.
+	Line: 9
+	Info: bruh 9
+
+[12:40:22] Info: =============== Start of logging session ===============
+[12:40:22] Exception: Index is invalid or out of range.
+	Line: 9
+	Info: bruh 9
+

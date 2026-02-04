@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"C_Cpp.vcFormat.indent.caseContentsWhenBlock": true,
+		"C_Cpp.vcFormat.indent.caseLabels": true,
+		"C_Cpp.vcFormat.indent.braces": true,
+		"C_Cpp.vcFormat.indent.accessSpecifiers": true,
+		"files.associations": {
+			"functional": "cpp",
+			"array": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"string": "cpp",
+			"list": "cpp",
+			"vector": "cpp",
+			"*.tcc": "cpp",
+			"widestring.h": "c",
+			"sstream": "cpp",
+			"overhaul.h": "c"
+		}
+	}
+}
